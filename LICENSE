@@ -1,0 +1,37 @@
+# Citation Requirement
+
+This code is provided for academic and research purposes. If you use this code or any part of it in your research, you MUST cite the following preprint article:
+
+**Chang, Jui-Ming and Zhou, Qi and Tang, Hui and Turowski, Jens M. and Ko, Ko, "Adaptive Machine Learning Framework for Debris Flow Monitoring in Nonstationary Environments in Illgraben, Switzerland"**
+
+Available at SSRN: https://ssrn.com/abstract=5736972 or http://dx.doi.org/10.2139/ssrn.5736972
+
+## BibTeX Citation
+
+```bibtex
+@article{chang2024adaptive,
+  title={Adaptive Machine Learning Framework for Debris Flow Monitoring in Nonstationary Environments in Illgraben, Switzerland},
+  author={Chang, Jui-Ming and Zhou, Qi and Tang, Hui and Turowski, Jens M. and Ko, Ko},
+  journal={Available at SSRN 5736972},
+  year={2024},
+  doi={10.2139/ssrn.5736972}
+}
+```
+
+## Terms of Use
+
+Copyright (c) 2024 Jui-Ming Chang, Qi Zhou, Hui Tang, Jens M. Turowski, Ko Ko
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, and distribute the Software for academic and research purposes, subject to the following conditions:
+
+1. **Citation Requirement**: Any use of this Software in academic publications, presentations, or derivative works must include a citation to the preprint article mentioned above.
+
+2. **Attribution**: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+3. **Non-Commercial Use**: Commercial use of this Software requires explicit permission from the authors.
+
+4. **No Warranty**: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Contact
+
+For commercial licensing or other inquiries, please contact the authors through the SSRN page.

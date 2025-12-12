@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Chang"
+    given-names: "Jui-Ming"
+  - family-names: "Zhou"
+    given-names: "Qi"
+  - family-names: "Tang"
+    given-names: "Hui"
+  - family-names: "Turowski"
+    given-names: "Jens M."
+  - family-names: "Ko"
+    given-names: "Ko"
+title: "Adaptive Machine Learning Framework for Debris Flow Monitoring in Nonstationary Environments in Illgraben, Switzerland"
+version: 1.0.0
+doi: 10.2139/ssrn.5736972
+date-released: 2024-12-12
+url: "https://ssrn.com/abstract=5736972"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Chang"
+      given-names: "Jui-Ming"
+    - family-names: "Zhou"
+      given-names: "Qi"
+    - family-names: "Tang"
+      given-names: "Hui"
+    - family-names: "Turowski"
+      given-names: "Jens M."
+    - family-names: "Ko"
+      given-names: "Ko"
+  title: "Adaptive Machine Learning Framework for Debris Flow Monitoring in Nonstationary Environments in Illgraben, Switzerland"
+  year: 2024
+  doi: "10.2139/ssrn.5736972"
+  url: "https://ssrn.com/abstract=5736972"
