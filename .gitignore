@@ -82,6 +82,10 @@ logs/
 *~
 ~$*.docx
 
+# Document files (exclude preprint/manuscript)
+*.docx
+*.doc
+
 # Output files
 outputs/
 results/
